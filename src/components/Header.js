@@ -8,7 +8,7 @@ import classes from './Header.module.scss';
 
 
 const Header = () => {
-    return 
+    return (
     <header className={classes.header}>   
     <div className={classes.header__content}>
 
@@ -34,7 +34,9 @@ const Header = () => {
 
 
     </div>
-    </header>;
+    </header>
+    );
 };
+
 
 export default Header;
