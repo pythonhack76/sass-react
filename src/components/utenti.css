@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+* {
+    margin-left: 100px;
+    
+}
+
+.welcome {
+
+ font-family: 'Lato', sans-serif;
+ font-size: 12px;
+ 
+}
