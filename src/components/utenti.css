@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 * {
-    margin-left: 100px;
+    margin: 0;
     
 }
 
@@ -9,4 +9,14 @@
  font-family: 'Lato', sans-serif;
  font-size: 12px;
  
+}
+
+.welcome h1 {
+    font-size: 20px;
+    margin-left: 80px;
+}
+
+.welcome h2 {
+    margin-top: 10px;
+    margin-left: 80px;
 }
